@@ -1,3 +1,5 @@
 .vscode/
-*.o
-*.exe
+
+# Negeer uitvoerbare bestanden zonder extensie
+print
+variable
