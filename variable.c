@@ -32,5 +32,5 @@ int main() {
     // Use '%d' for booleans
     // We use '%d' because 1 and 0 means True and False in binary
     printf("%d", isCooked);
-    return 1;
+    return 0;
 }
