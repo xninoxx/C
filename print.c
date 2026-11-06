@@ -2,7 +2,7 @@
 
 int main() { // main function
     
-    // printing text with a newline
+    // printing text with a newline (\n)
     printf("Hey I'm Nino.\n");
     printf("I'm 16 years old.");
 
