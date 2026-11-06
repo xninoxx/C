@@ -34,7 +34,7 @@ int main() {
     printf("%+05d\n", num6); // Prints: "+0500"
     printf("%+d\n\n", num7);   // Prints: "-50"
     
-    // example of what we've learned: 
+    // example of2 what we've learned: 
     printf("%+7.2f\n", price1); // Prints: " +19.99"
     printf("%+7.2f\n", price2); // Prints: "  +1.50"
     printf("%+7.2f\n", price3); // Prints: "-100.00"
