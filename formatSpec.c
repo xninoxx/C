@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // We already covered Format Specifiers in variables.c a bit
-// d = int and bool, f = float, lf = double, c = char, s = string
+// d = int and bool (use <stdbool.h>), f = float, lf = double, c = char, s = string
 // '.1' sets the precision to 1 digit after the decimal point
 
 int main() {
