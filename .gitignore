@@ -3,3 +3,4 @@
 # Negeer uitvoerbare bestanden zonder extensie
 print
 variable
+formatSpec
