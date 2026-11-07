@@ -2,6 +2,9 @@
 
 # This is for helping people learn and for myself
 
+# My projects roadmap:
+See my [C project roadmap](./projects.md) for what I'm building and how far I am.
+
 # Left all files with:
     
     Atleast 1 clear example about the subject
