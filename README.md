@@ -14,3 +14,4 @@
 3. formatSpec.c
 4. bArithmetic.c
 5. userInput.c
+6. shoppingCart.c
