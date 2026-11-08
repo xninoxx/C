@@ -10,6 +10,9 @@ See my [C project roadmap](./projects.md) for what I'm building and how far I am
     Atleast 1 clear example about the subject
     Explanation for new subjects
 
+# Where to find my practice files:
+[See my folder where I practice C in](./practice/)
+
 # File Order:
 
 1. print.c
