@@ -1,9 +1,9 @@
 .vscode/
 
-# Negeer uitvoerbare bestanden zonder extensie
 print
 variable
 formatSpec
 bArithmetic
 userInput
 shoppingCart
+madlibs

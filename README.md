@@ -18,3 +18,4 @@ See my [C project roadmap](./projects.md) for what I'm building and how far I am
 4. bArithmetic.c
 5. userInput.c
 6. shoppingCart.c
+7. madlibs.c
