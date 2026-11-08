@@ -1,4 +1,4 @@
-# No AI
+# No AI Code
 
 # This is for helping people learn and for myself
 
@@ -22,3 +22,4 @@ See my [C project roadmap](./projects.md) for what I'm building and how far I am
 5. userInput.c
 6. shoppingCart.c
 7. madlibs.c
+8. mathfunctions.c
