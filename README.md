@@ -36,3 +36,4 @@ See my [C project roadmap](./projects.md) for what I'm building and how far I am
 19. return.c
 20. return2.c
 21. return3.c
+22. varScope.c
