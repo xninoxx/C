@@ -33,3 +33,6 @@ See my [C project roadmap](./projects.md) for what I'm building and how far I am
 16. calculatorP.c
 17. logicalOperators.c
 18. functions.c
+19. return.c
+20. return2.c
+21. return3.c
