@@ -32,3 +32,4 @@ See my [C project roadmap](./projects.md) for what I'm building and how far I am
 15. nestedIfStatem.c
 16. calculatorP.c
 17. logicalOperators.c
+18. functions.c
