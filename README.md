@@ -38,3 +38,4 @@ See my [C project roadmap](./projects.md) for what I'm building and how far I am
 21. return3.c
 22. varScope.c
 23. fnPrototype.c
+24. whileLoops.c
