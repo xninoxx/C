@@ -47,3 +47,4 @@ See my [C project roadmap](./projects.md) for what I'm building and how far I am
 30. numGuessGameP.c
 31. rockPaperScissors.c
 32. bankingP.c
+33. arrays.c
