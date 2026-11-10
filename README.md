@@ -43,3 +43,4 @@ See my [C project roadmap](./projects.md) for what I'm building and how far I am
 26. breakAndContinue.c
 27. nestedLoops.c
 28. nestedLoops2.c
+29. randomNums.c
