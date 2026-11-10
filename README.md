@@ -50,3 +50,5 @@ See my [C project roadmap](./projects.md) for what I'm building and how far I am
 33. arrays.c
 34. arraysNUsrInput.c
 35. 2dArrays.c
+36. arraysOfStrings.c
+37. arraysOfStrings2.c
