@@ -44,3 +44,4 @@ See my [C project roadmap](./projects.md) for what I'm building and how far I am
 27. nestedLoops.c
 28. nestedLoops2.c
 29. randomNums.c
+30. numGuessGameP.c
