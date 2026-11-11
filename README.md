@@ -53,3 +53,4 @@ See my [C project roadmap](./projects.md) for what I'm building and how far I am
 36. arraysOfStrings.c
 37. arraysOfStrings2.c
 38. quizGameP.c
+39. ternaryOperator.c
