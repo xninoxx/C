@@ -57,3 +57,4 @@ See my [C project roadmap](./projects.md) for what I'm building and how far I am
 40. typedef.c
 41. enums.c
 42. structs.c
+43. arrayOfStructs.c
