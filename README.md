@@ -1,4 +1,7 @@
 # No AI Code
+I do use AI to explain the subjects to me because AI can articulate it
+way better than me. You can also see the explanations in the code
+(starting at harder to grasp subjects)
 
 # This is for helping people learn and for myself
 
@@ -64,3 +67,4 @@ See my [C project roadmap](./projects.md) for what I'm building and how far I am
 47. malloc.c
 48. calloc.c
 49. realloc.c
+50. digitalClockP.c
