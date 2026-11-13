@@ -47,3 +47,4 @@ pointers
 writeFiles
 readFiles
 malloc
+calloc
