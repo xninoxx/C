@@ -48,3 +48,4 @@ writeFiles
 readFiles
 malloc
 calloc
+realloc
