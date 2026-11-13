@@ -1,3 +1,5 @@
+# Started on November 6th 2026
+
 # No AI Code
 I do use AI to explain the subjects to me because AI can articulate it
 way better than me. You can also see the explanations in the code
