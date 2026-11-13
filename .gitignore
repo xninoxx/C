@@ -43,3 +43,4 @@ typedef
 enums
 structs
 arrayOfStructs
+pointers
