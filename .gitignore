@@ -51,3 +51,4 @@ calloc
 realloc
 digitalClockP
 argvParsing
+buffer

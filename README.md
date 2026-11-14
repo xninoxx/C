@@ -71,3 +71,4 @@ See my [C project roadmap](./projects.md) for what I'm building and how far I am
 49. realloc.c
 50. digitalClockP.c
 51. argvParsing.c
+52. buffer.c
