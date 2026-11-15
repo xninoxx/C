@@ -6,7 +6,7 @@ int main() {
     int age = 0;
     float gpa = 0.0f; // Tells the program it HAS to be a float
     char grade = '\0'; // Sets 'grade' to an empty placeholder (value 0) until a real grade is assigned. (AKA Null terminator)
-    char name[20] = ""; // We have to specify a size to the array. the our name variable now has a max size of 25 characters
+    char name[20] = ""; // We have to specify a size to the array. the our name variable now has a max size of 20 characters
 
 
     printf("Enter your age: ");
