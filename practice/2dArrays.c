@@ -7,7 +7,7 @@ int main() {
     char numpad[][3] = {{'1', '2', '3'}, 
                         {'4', '5', '6'}, 
                         {'7', '8', '9'},
-                        {'*', '0', '3'}};
+                        {'*', '0', '#'}};
 
     // OUTER LOOP: Iterates through each ROW (i from 0 to 3)
     for (int i = 0; i < 4; i++) { 
