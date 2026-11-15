@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdbool.h>
 
 int main() {
 
@@ -8,6 +9,7 @@ int main() {
     double num1 = 0.0;
     double num2 = 0.0;
     double result = 0.0;
+    bool isValid = true;
     
     printf("Enter the first number: ");
     scanf("%lf", &num1);
@@ -31,6 +33,7 @@ int main() {
         case '/':
             if (num2 == 0) {
                 printf("You can't devide by zero! WHAT are you doing?!\n");
+                isValid = false;
             }
             else {
                 result = num1 / num2;
@@ -38,9 +41,11 @@ int main() {
             break;
         default:
             printf("Invalid operator\n");
+            isValid = false;
     }
-
-    printf("Result: %.4lf", result);
-
+    if (isValid) {
+        printf("Result: %.4lf", result);
+    }
+    
     return 0;
 }
